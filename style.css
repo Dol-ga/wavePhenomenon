@@ -1,0 +1,28 @@
+body{
+display: flex;
+justify-content: center;
+background-color: #E6E505
+}
+
+.transitionBG {
+background: linear-gradient(#E6E505, white);
+}
+
+.white {
+
+background-color: white;
+
+}
+
+* {
+margin: 0
+}
+
+#mainIMG {
+height: 200vh;
+object-fit: scale-down;
+}
+
+#navHolder {
+position: fixed;
+bottom: 5%;
